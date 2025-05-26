@@ -65,3 +65,4 @@ Our model is trained on a publicly available heart failure dataset and aims to m
 
 
 ---
+PS:I have used Chatgpt to Create the Read me file to make it more Readable
