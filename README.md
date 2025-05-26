@@ -1,8 +1,8 @@
-# ❤️ Heart Failure Prediction using Machine Learning
+#  Heart Failure Prediction using Machine Learning
 
 A machine learning-based predictive system that estimates the risk of heart failure based on a patient’s medical attributes. The goal is to assist early intervention by predicting the likelihood of a cardiac event using reliable medical data.
 
-## 🧠 Project Description
+##  Project Description
 
 This project leverages supervised machine learning techniques to predict heart failure. It includes thorough data preprocessing, careful class proportion handling (especially for gender), model building using **XGBoost**, and detailed performance evaluation through metrics and visualizations.
 
