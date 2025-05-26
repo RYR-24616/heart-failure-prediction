@@ -59,7 +59,7 @@ Our model is trained on a publicly available heart failure dataset and aims to m
 
 | File | Description |
 |------|-------------|
-| `Heart_disease.ipynb` | Full code with preprocessing, model training, evaluation |
+| `Heart DiseaseProject_Final.ipynb` | Full code with preprocessing, model training, evaluation |
 | `README.md` | Project documentation |
 | `heart.csv` | Dataset for the project | 
 
